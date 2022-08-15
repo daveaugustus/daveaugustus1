@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Dave Augustus, a Computer Science Engineer + technical writer✍ & opensource enthusiast. I write Golang, C++, and Bash to build secure and scalable applications. Also a ex writer for Saffron Coders and currectly working on `bottlegourd`.
+#### I'm Dave Augustus also known as Pappu Kumar Pandey, a Computer Science Engineer + technical writer✍ & opensource enthusiast. I write Golang, C++, and Bash to build secure and scalable applications. Also a ex writer for Saffron Coders and currectly working on `bottlegourd`.
 
 
 * Twitter: [@DaveAugustus__](https://twitter.com/DaVeTwEeTlive),
