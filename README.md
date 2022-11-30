@@ -10,12 +10,10 @@
 
 
 
-<!-- [![T-Stark's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveaugustus&show_icons=true&theme=tokyonight)](https://github.com/daveaugustus/github-readme-stats)
--->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daveaugustus&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+[![T-Stark's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveaugustus&show_icons=true&theme=tokyonight)](https://github.com/daveaugustus/github-readme-stats)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daveaugustus&theme=tokyonight) 
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daveaugustus&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daveaugustus&theme=tokyonight) 
+
 
 
 
